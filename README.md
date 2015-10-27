@@ -16,9 +16,11 @@ Then run:
     chmod 555 ./php7_compatibility_checker.sh
 
 Then run it, with the location of where to search as the last argument, for example:
+
     ./php7_compatibility_checker.sh /htdocs/
 
 or 
+
     ./php7_compatibility_checker.sh .
 
 
