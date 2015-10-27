@@ -11,7 +11,7 @@ Use the information from the script at your own risk. :)
 
 Download the php7_compatibility_checker.sh file. 
 
-    wget https://github.com/sceniCode/php7_compatibility_checker/blob/master/php7_compatibility_checker.sh
+    wget https://raw.githubusercontent.com/sceniCode/php7_compatibility_checker/master/php7_compatibility_checker.sh
 
 Then run:
 
